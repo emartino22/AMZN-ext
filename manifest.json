@@ -4,7 +4,7 @@
   "description": "Base Level Extension",
   "version": "1.0",
   "action": {
-    "default_popup": "SSA.html",
+    "default_popup": "Super.html",
     "default_icon": "Super_Scout_AMZN_extensions.png"
   }
 }
