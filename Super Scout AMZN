@@ -5,5 +5,5 @@
   "version": "1.0",
   "action": {
     "default_popup": "SSA.html",
-    "default_icon": "SSA_extensions.png"
+    "default_icon": "Super Scout AMZN_extensions.png"
   }
